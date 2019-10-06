@@ -3,6 +3,9 @@ Just another useless box
 
 3D printed useless box or so called useless machines. Arduino driven. Features 4 servos and a gesture/proximity sensor. Contains a 16 LED neopixel ring. All parts are easy to source. 
 
+## Video in Action
+https://www.youtube.com/watch?v=pDcApzEbbxg
+
 
 ## List of parts, sources (no affiliate links)
 1x Arduino Nano V3 5V
@@ -108,3 +111,16 @@ Of course you are invited to extent the possible action, color codes and so on. 
 I found my servos to be really cheap ones. They interfere with each other. Disabling the servos I do not need for the moment solved this. However, in the video you can see the servos "choking". If you can, buy quality servos.
 
 
+## Crosslinks
+
+Repo
+https://github.com/pstimpel/uselessbox
+
+Thingiverse
+https://www.thingiverse.com/thing:3901482
+
+Prusaprinters
+https://www.prusaprinters.org/prints/6042-another-useless-box
+
+Youtube
+https://www.youtube.com/watch?v=pDcApzEbbxg
