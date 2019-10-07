@@ -110,6 +110,9 @@ Of course you are invited to extent the possible action, color codes and so on. 
 ### Why do you enable and disable the servos that much?
 I found my servos to be really cheap ones. They interfere with each other. Disabling the servos I do not need for the moment solved this. However, in the video you can see the servos "choking". If you can, buy quality servos.
 
+## Credits
+The "OK finger" was remixed out of https://www.thingiverse.com/thing:3370059 by tdkahn1978 .
+
 
 ## Crosslinks
 
